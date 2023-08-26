@@ -2,8 +2,8 @@
 Name : ColorMapperEXT
 Author : kaegan@DESKTOP-6PU4AOJ
 Version : 0
-Build : 2
-Savetimestamp : 2023-08-26T15:27:17.673906
+Build : 3
+Savetimestamp : 2023-08-26T15:27:28.101568
 Saveorigin : color_components.336.toe
 Saveversion : 2022.33910
 Info Header End'''
